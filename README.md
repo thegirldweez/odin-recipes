@@ -1,3 +1,4 @@
-# odin-recipes
+Built for The Odin Project
 
-My first Odin Project project 😄. I am creating a recipe site using basic html/css. At a later date I will add many more design elements and functionalities.
+
+My very first project following the TOP curriculum 😄. A favorite recipes website using basic html/css. 
